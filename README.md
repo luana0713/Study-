@@ -1,2 +1,3 @@
 # Study-
-Repositório de estudos  
+- Repositório de estudos 
+- Rstudos de varias linguagens.
